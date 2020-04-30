@@ -5,7 +5,7 @@
 * Follows people from the most followed on github, thus more likely to follow.
 * Depending on internet connection, script will run over 24-48 hours.
 
-**Considered spammy so use at your own risk
+**Considered spammy so use at your own risk**
 
 ### Requirements
 
