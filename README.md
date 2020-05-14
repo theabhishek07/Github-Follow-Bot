@@ -13,4 +13,4 @@
 
 ### Misc
 
-Make sure you are careful when using this, good way to inflate your follower base (without legitamelty building something awesome) it will be apparent that you are being spammy.Good luck, and may this help you out in your "fake it until you make it shemes." (:
+Make sure you are careful when using this, good way to inflate your follower base (without legitamelty building something awesome) it will be apparent that you are being spammy.Good luck, and may this help you out in your "fake it until you make it." (:
